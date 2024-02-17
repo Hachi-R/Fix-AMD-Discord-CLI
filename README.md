@@ -16,7 +16,7 @@
 ### There are two ways to obtain the tool:
 - **Option   1: Download a Ready Build**. You can download a pre-compiled version from the [releases](https://github.com/Hachi-R/Fix-AMD-Discord-CLI/releases) and run it directly.
 
-- **Option   2: Compile from Source Code**. If you prefer, you can clone this repository and compile the tool from the source code using [Xcode](https://developer.apple.com/xcode/).
+- **Option   2: Compile from Source Code**. If you wish, you can clone this repository and compile from source code using [Xcode](https://developer.apple.com/xcode/).
   - To clone via command line: `git clone https://github.com/Hachi-R/Fix-AMD-Discord-CLI`
   - To download as a zip file: https://github.com/Hachi-R/Fix-AMD-Discord-CLI/archive/refs/heads/main.zip
 
