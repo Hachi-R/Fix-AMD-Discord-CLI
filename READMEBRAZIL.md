@@ -14,6 +14,9 @@
 # Instalação
 ### Existem duas maneiras de obter a ferramenta:
 - **Opção  1: Baixar uma Build Pronta**. Você pode baixar uma versão já compilada nas [releases](https://github.com/Hachi-R/Fix-AMD-Discord-CLI/releases) e executá-la diretamente.
+  - Clique com o botão direito do mouse no executavel.
+  - Selecione "Abrir" no menu de contexto.
+  - Se o macOS exibir um alerta, você pode clicar em "Abrir de qualquer maneira" para confirmar.
 
 - **Opção  2: Compilar a partir do Código Fonte**. Se preferir, você pode clonar este repositório e compilar a ferramenta a partir do código fonte usando o [Xcode](https://developer.apple.com/xcode/).
   - Para clonar por linha de comando: `git clone https://github.com/Hachi-R/Fix-AMD-Discord-CLI`
