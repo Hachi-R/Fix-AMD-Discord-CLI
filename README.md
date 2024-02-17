@@ -1,5 +1,5 @@
 # Fix AMD Discord
-### Leia em PT-BR 🇧🇷
+### [Leia em PT-BR 🇧🇷](https://github.com/Hachi-R/Fix-AMD-Discord-CLI/blob/main/READMEBRAZIL.md)
 ### Fix AMD Discord is a tool designed to address specific issues with Discord on AMD processors, such as:
 
 - Crashes when joining voice calls;
